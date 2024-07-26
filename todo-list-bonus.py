@@ -1,3 +1,5 @@
+#Some of the new features i implemented worked but broke other features i already had in place
+
 from datetime import datetime
 def menu():
     print("""
